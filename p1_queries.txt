@@ -1,0 +1,5 @@
+--- ALL from products
+SELECT * FROM hw_03.products;
+
+--- name, phone from shippers
+SELECT name, phone FROM hw_03.shippers;
